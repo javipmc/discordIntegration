@@ -1,6 +1,5 @@
 ## Discord integration
 
-<!DOCTYPE html>
 
 
 <widgetbot
@@ -17,4 +16,3 @@
         channel: '960569981744062474' // #💬┃general
     })
 </script>
-</html>
